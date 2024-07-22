@@ -1,0 +1,3 @@
+<h1>Vi uppgraderar vår webbshop!</h1>
+<div>Vårt briljanta team uppskattar att vi är tillbaka före <strong id='time'></strong></div>
+<div>Modino eCommerce Team :)</div>
