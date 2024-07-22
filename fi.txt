@@ -1,0 +1,3 @@
+<h1>Päivitämme verkkokauppaamme!</h1>
+<div>Loistava tiimimme arvioi, että olemme takaisin ennen <strong id='time'></strong></div>
+<div>Modino eCommerce Team :)</div>
