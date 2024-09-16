@@ -1,3 +1,3 @@
-<h1>Vi oppgraderer nettbutikken vår!</h1>
-<div>Vårt strålende team anslår at vi er tilbake før <strong id='time'></strong></div>
-<div>Modino eCommerce Team :)</div>
+<h1>Vi oppgraderer vår nettbutikk!</h1>
+<div>Vi forventer at nettstedet er tilbake <strong id='time'></strong></div>
+<div>Modino Team</div>
